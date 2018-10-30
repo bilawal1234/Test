@@ -72,3 +72,4 @@ if ( post_password_required() ) {
 	<?php comment_form(); ?>
 
 </div><!-- .comments-area -->
+my changes 3
