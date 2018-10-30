@@ -62,3 +62,4 @@ get_header(); ?>
 	</section><!-- .content-area -->
 
 <?php get_footer(); ?>
+my changes 1
