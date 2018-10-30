@@ -28,3 +28,4 @@ get_header(); ?>
 	</div><!-- .content-area -->
 
 <?php get_footer(); ?>
+my changes
